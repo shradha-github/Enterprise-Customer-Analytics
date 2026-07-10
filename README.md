@@ -6,8 +6,6 @@
 This project focuses on analyzing **enterprise customer data** to identify key revenue drivers, high-value customers, and regional performance patterns.
 The goal is to convert raw transactional data into **actionable business insights** using **Python for analysis** and **Power BI for visualization**.
 
-This is an **end-to-end beginner data analytics project** covering data cleaning, analysis, and dashboard creation.
-
 ---
 
 ## 🎯 Objectives
